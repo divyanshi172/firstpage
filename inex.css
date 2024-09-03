@@ -1,0 +1,368 @@
+ * {
+   padding: 0;
+   margin: 0;
+ }
+
+ .NAVBAR {
+   height:
+     40px;
+   width: 100%;
+   background-color: black;
+   position: relative;
+   position: fixed;
+   top: 0;
+   z-index: 999;
+ }
+
+ .CONTENT {
+  position: relative;
+  width: 100%;
+   position: fixed;
+   top: 40px;
+   z-index: 999;
+ }
+
+ .YOU {
+   position: absolute;
+   bottom: 13PX;
+   right: 5PX;
+   color: white;
+   background-color: rgb(13, 155, 34);
+   width: 80PX;
+   height: 25PX;
+   border-radius: 5PX;
+ }
+
+ .jo {
+   height: 80PX;
+   width: 100%;
+   color: white;
+   background-color: rgb(34, 30, 30);
+   display: flex;
+   justify-content: space-evenly;
+   position: relative;
+ }
+
+ .CONTENT ul a {
+   color: white;
+   text-decoration: none;
+   position: absolute;
+   top: 30PX
+ }
+
+ INPUT {
+   background-color: rgb(240, 235, 225);
+   position: absolute;
+   top: 30PX;
+   right: 10%;
+   border-radius: 3PX;
+ }
+
+ LI {
+   list-style: NONE;
+   width: 10PX;
+ }
+
+ .mainp { margin-top: 15%;
+   height: 100vh;
+   width: 100vw;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-evenly;
+ }
+
+ h2 {
+   color: white;
+   display: flex;
+   justify-content: center;
+ }
+
+ .we {
+   font-size: 100PX;
+   display: flex;
+   justify-content: CENTER;
+   align-items: center;
+   color: white;
+ }
+
+ p {
+   color: white;
+   display: flex;
+   justify-content: center;
+   font-size: large;
+
+
+ }
+
+ .i {
+   background-color: transparent;
+   color: white;
+   height: 40px;
+   width: 180px;
+   border-color: white;
+   border-radius: 5px;
+
+
+
+
+ }
+
+ main {
+   background-image: url(https://www.ultraimagehub.com/wallpapers/tr:flp-false,gx-0.1,gy-1,q-75,rh-3264,rw-5824,th-1080,tw-1920/1241678209255473152.jpeg);
+   background-size: cover;
+   display: flex;
+
+   justify-content: center;
+   align-items: center;
+ }
+
+ .child {
+   margin-top: -20%;
+ }
+
+ .work {
+   height: 100vh;
+   width: 100vw;
+   background-color: rgba(24, 23, 23, 0.99);
+ }
+
+ .ok {
+   font-size: 90px;
+   margin-left: 15%;
+   color: white;
+   align-items: center;
+
+ }
+
+ .IMGH {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 70%;
+   width: 80%;
+   border-top: 2px solid rgb(237, 237, 233);
+   border-bottom: 2px solid rgb(248, 248, 244);
+   /* border: 3px solid green; */
+ }
+
+ .work {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height: 100vh;
+   width: 100vw;
+ }
+
+ img {
+   border-radius: 50%;
+ }
+
+ .done {
+   height: 100px;
+   color: white;
+   width: 80%;
+   background-color: rgba(24, 23, 23, 0.99);
+   margin-left: 20%;
+   display: flex;
+   justify-content: space-evenly;
+
+ }
+
+ a {
+   color: white;
+   text-decoration: none;
+ }
+
+ .k {
+   width: 50%;
+   background-color: rgba(24, 23, 23, 0.99);
+   display: flex;
+   justify-content: space-evenly;
+ }
+
+ .um {
+   display: flex;
+   margin-left: -20%;
+ }
+
+ .k li {
+   background-color: white;
+   width: 10%;
+   height: 70%;
+   color: black;
+   border-radius: 100%;
+   font-size: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .k li:hover {
+   transition: all 1Ss;
+   background-color: black;
+   color: white;
+ }
+
+ .z {
+   height: 100vh;
+   width: 100vw;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-image: url(https://png.pngtree.com/background/20230426/original/pngtree-laptop-with-glasses-and-other-items-like-pens-picture-image_2492361.jpg);
+   background-size: cover;
+   color: white;
+ }
+
+ .ekta {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   flex-direction: column;
+   color: white;
+   font-size: large;
+ }
+
+ .betu {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 40%;
+   height: 90%;
+   margin-top: 5px;
+ }
+
+ .k li:hover {
+   transition: all 1Ss;
+   background-color: black;
+   color: white;
+ }
+
+ .betu li {
+   background-color: white;
+   width: 50px;
+   height: 60px;
+   color: black;
+   border-radius: 100%;
+   font-size: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .betu li:hover {
+   transition: all 1Ss;
+   background-color: black;
+   color: white;
+ }
+
+ .abo {
+   font-size: 100px;
+   ;
+   width: 65%;
+   margin-top: -36%;
+ }
+
+ .divy {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+ }
+
+ .mop {
+   height: 20vh;
+   width: 100vmax;
+   background-image: url(https://m.media-amazon.com/images/I/51Vx6vXsnRL.jpg);
+   background-size: cover;
+ }
+
+ .lpk {
+   color: white;
+   font-size: 20px;
+ }
+
+ .CONTACT {
+   color: white;
+   height: 100vh;
+   width: 100vw;
+   background-color: rgba(24, 23, 23, 0.99);
+   font-size: 50px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-direction: column;
+ }
+
+ .TACT {
+   width: 60%;
+   height: 40%;
+   display: flex;
+   justify-content: space-around;
+   flex-direction: column;
+   position: relative;
+   border-top: 2px solid rgb(237, 237, 233);
+   border-bottom: 2px solid rgb(248, 248, 244);
+   margin-bottom: 20%;
+ }
+
+ .gk {
+   position: absolute;
+   top: 60%;
+   left: 38%;
+ }
+
+ .zx {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   flex-direction: column;
+   width: 5px;
+   margin-top: -25%;
+ }
+
+ .plm {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+ }
+
+ footer {
+   height: 35vh;
+   width: 100vw;
+   background-color: black;
+   margin-top: -5%;
+ }
+
+ .mee {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+ }
+
+ .mee li {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: white;
+   color: black;
+   width: 50px;
+   height: 60px;
+   font-size: 30px;
+   border-radius: 50%;
+   margin-top: 50px;
+   margin-left: 5%;
+ }
+
+ .mee li:hover {
+   transition: all 1s;
+   background-color: black;
+   color: white;
+ }
+
+ .hii {
+   margin-top: 5%;
+   font-size: 30px;
+ }
